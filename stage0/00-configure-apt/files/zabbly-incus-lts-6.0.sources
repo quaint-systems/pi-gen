@@ -1,0 +1,7 @@
+nabled: yes
+Types: deb
+URIs: https://pkgs.zabbly.com/incus/lts-6.0
+Suites: bookworm
+Components: main
+Architectures: arm64
+Signed-By: /etc/apt/keyrings/zabbly.asc

@@ -37,3 +37,7 @@ unzip zip p7zip-full
 file
 kms++-utils
 python3-venv
+wget
+incus
+btrfs-progs
+c3270
