@@ -39,3 +39,4 @@ wget
 incus
 btrfs-progs
 c3270
+bridge-utils

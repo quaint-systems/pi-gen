@@ -1,4 +1,5 @@
 IMG_NAME='nano370'
+IMG_SUFFIX="-PRERELEASE"
 RELEASE='bookworm'
 ARCH='arm64'
 PI_GEN_RELEASE="Quaint Systems nano370-${RELEASE}-${ARCH}"
